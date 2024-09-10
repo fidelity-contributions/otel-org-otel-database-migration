@@ -1,7 +1,7 @@
 import path from 'path'
 import { VersionExecution } from '../src/migration/atlas-class'
 import { MigrationConfig } from '../src/types'
-import mysql.connector 2from mysql.connector import Error
+import mysql.connector 2 from mysql.connector import Error
 import {
   Branch,
   Comment,
